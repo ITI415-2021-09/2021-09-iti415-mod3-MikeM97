@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Fire
   - Loader
+  - Pick Up
   layers:
   - Default
   - TransparentFX
