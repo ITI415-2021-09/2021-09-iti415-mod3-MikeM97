@@ -32,7 +32,7 @@ public class PlayerControllerPickup : MonoBehaviour
         countText.text = "Stars: " + count.ToString() + "/10";
         if (count >= 10)
         {
-            winText.text = "You Win!";
+            winText.text = "Congratulations, you win!";
         }
     }
 }
