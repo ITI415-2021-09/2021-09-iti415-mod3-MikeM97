@@ -87,6 +87,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeveledStar
       objectReference: {fileID: 0}
+    - target: {fileID: 8662723672142559448, guid: 3778c0352066a054d805e36dfd97daa6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 641330a16ed14114ab3aefcd874e2bcd, type: 2}
+    - target: {fileID: 8662723672142559448, guid: 3778c0352066a054d805e36dfd97daa6, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 81841fbf2ed5c83488e5e79977525914, type: 2}
+    - target: {fileID: 8662723672142559449, guid: 3778c0352066a054d805e36dfd97daa6, type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 1.2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3778c0352066a054d805e36dfd97daa6, type: 3}
 --- !u!4 &777386018801573461 stripped
