@@ -4754,7 +4754,7 @@ GameObject:
   m_Component:
   - component: {fileID: 140344586}
   m_Layer: 0
-  m_Name: Blockss
+  m_Name: Blocks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
